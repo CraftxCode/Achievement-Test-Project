@@ -1,1 +1,5 @@
-# Achievement-Test-Project
+## Features
+
+- Clean project structure
+- Easy setup
+- Beginner-friendly documentation
